@@ -9,4 +9,4 @@
 
 ## 추가 활용 사례
 
--[지인의 출퇴근 사례](https://github.com/aimclee/2021-seoul-metro-guest-analysis/commit/9ffe36f255c13aa07fdbe8679a524fe9017fcf6d#comments)
+- [지인의 출퇴근 사례](https://github.com/aimclee/2021-seoul-metro-guest-analysis/commit/9ffe36f255c13aa07fdbe8679a524fe9017fcf6d#comments)
