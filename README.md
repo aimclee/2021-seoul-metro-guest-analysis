@@ -11,7 +11,3 @@
 ## 프로젝트 설명 동영상 
 - [프로젝트 설명 동영상 url](https://drive.google.com/file/d/1Yak6wp3KLnr0GpGDqqXiYvlE0HhwLDe4/view?usp=sharing)
 - (이 영상은 인공지능 음성/영상제작프로그램, 온에어스튜디오 OnAir Studio를 통해 제작되었습니다 #온에어스튜디오 #onairstudio https://abit.ly/onairstudio)
-
-## 추가 활용 사례
-
-- [지인의 출퇴근 사례](https://github.com/aimclee/2021-seoul-metro-guest-analysis/commit/9ffe36f255c13aa07fdbe8679a524fe9017fcf6d#comments)
